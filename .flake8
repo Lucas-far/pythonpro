@@ -3,5 +3,7 @@
 [flake8]
 max-line-length = 120
 exclude =
-
-  .pytest_cache
+    pythonbirds,
+    entrevistas,
+    pytools,
+    outros arquivos
