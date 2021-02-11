@@ -16,3 +16,4 @@ upgrade_de_lib_no_pypi.py
 pytest:_instalação.py
 criacao_e_execucao_de_testes.py
 testes_no_travis.py
+cobertura_de_testes.py
